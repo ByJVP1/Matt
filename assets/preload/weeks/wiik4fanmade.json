@@ -1,0 +1,48 @@
+{
+	"storyName": "Matt's Final Return!",
+	"hideFreeplay": false,
+	"weekBackground": "wiik4fanmade",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"dodging",
+			"swordmatt",
+			[
+				186,
+				153,
+				93
+			]
+		],
+		[
+			"engarde",
+			"swordmatt",
+			[
+				206, 
+                153,
+                93
+			]
+		],
+		[
+			"showdown",
+			"swordmatt",
+			[
+				246,
+				133,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

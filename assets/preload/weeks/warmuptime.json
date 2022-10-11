@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"warm-up",
+			"matt",
+			[
+				255,
+				135,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "meetup",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Matt's Warm Up",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
